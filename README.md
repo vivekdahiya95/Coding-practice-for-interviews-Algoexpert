@@ -1,4 +1,6 @@
-# adding a demo file
- some text here and there
+# This is practice code for interview
+ problems From Algoexpert as practice for the interviews
+
+
 
  
